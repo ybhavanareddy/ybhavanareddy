@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yatham Bhavana</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img width="400" align="right" alt="coding" src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif">
+<img width="300" height="200" align="right" style="border-radius:5px" alt="coding" src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybhavanareddy&label=Profile%20views&color=0e75b6&style=flat" alt="ybhavanareddy" /> </p>
 
